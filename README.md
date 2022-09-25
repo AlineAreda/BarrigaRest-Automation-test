@@ -14,6 +14,8 @@ JUnit
 
 Rota:  [http://barrigarest.wcaquino.me](http://barrigarest.wcaquino.me/)
 
+### Autenticação
+- [X] Não deve acessar API sem token
 
 ### Contas
 - [X] Não deve acessar api sem token 
