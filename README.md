@@ -22,12 +22,12 @@ Rota:  [http://barrigarest.wcaquino.me](http://barrigarest.wcaquino.me/)
 - [X] Deve inserir conta com sucesso
 - [X] Deve alterar conta com sucesso  
 - [X] Não deve  inserir conta com nome repetido  
-- [X] Não deve remover conta com movimentação  
 
 ### Movimentação
 - [X] Deve inserir movimentação com sucesso 
 - [X] Deve validar campos obrigatórios na movimentação  
-- [X] Não deve cadastrar transação  com data futura  
+- [X] Não deve cadastrar transação  com data futura 
+- [X] Não deve remover conta com movimentação  
 - [X] Deve remover  movimentação  
 
 ### Saldo
