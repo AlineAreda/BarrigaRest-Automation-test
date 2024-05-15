@@ -12,7 +12,7 @@ public class TestesUtils {
                 .path("id[0]");
     }
 
-    //Metodo para pegar id da moivimentação pelo nome
+    //Metodo para pegar id da movimentação pelo nome
     public static Integer getIdMovimentacaoNome(String desc){
         return RestAssured.get("/transacoes?descricao="+desc)
                 .then()
